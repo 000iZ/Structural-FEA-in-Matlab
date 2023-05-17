@@ -1,5 +1,5 @@
 ## Structural FEA in Matlab
-Using MATLAB, finite element analysis is performed on mechanical structures under loading.
+Using MATLAB®, finite element analysis is performed on mechanical structures under loading.
 
 ### Stepped Shaft under Axial Loading
 In the _FEA_stepped_shaft.m_ script, a shaft of non-uniform diameter experiences loading along its longitudinal axis. Modeled using its stiffness matrix to analyze stress, strain, and displacement of each shaft section are obtained.
